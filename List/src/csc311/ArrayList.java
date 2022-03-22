@@ -9,6 +9,7 @@ public class ArrayList<E> implements List<E> {
 	/**
 	 * This instance variable is the basis of the class,
 	 * and stores the variables as needed
+	 this changes are for testing Git and Jenkins
 	 */
 	private E[] array;
 	
